@@ -1,0 +1,15 @@
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\bin\Debug\MapWinGISDemo.exe.config
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\bin\Debug\MapWinGISDemo.exe
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\bin\Debug\MapWinGISDemo.pdb
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\bin\Debug\Interop.MapWinGIS.dll
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\bin\Debug\AxInterop.MapWinGIS.dll
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\obj\Debug\Interop.MapWinGIS.dll
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\obj\Debug\AxInterop.MapWinGIS.dll
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\obj\Debug\MapWinGISDemo.csproj.ResolveComReference.cache
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\obj\Debug\MapWinGISDemo.Form1.resources
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\obj\Debug\MapWinGISDemo.Properties.Resources.resources
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\obj\Debug\MapWinGISDemo.csproj.GenerateResource.Cache
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\obj\Debug\MapWinGISDemo.csproj.CoreCompileInputs.cache
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\obj\Debug\MapWinGISDemo.exe
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\obj\Debug\MapWinGISDemo.pdb
+D:\Projects\GIS\MapWinGISDemo\MapWinGISDemo\obj\Debug\MapWinGISDemo.csprojResolveAssemblyReference.cache
